@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/183/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions
+END
+PlayerLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/77/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/PlayerLoadException.java
+END
+MapLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/64/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/MapLoadException.java
+END
+DisplayFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/155/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/DisplayFormatException.java
+END
+GameplayException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/95/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/GameplayException.java
+END
+TargetUnreachableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/183/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/TargetUnreachableException.java
+END
+LevelNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/81/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/LevelNotFoundException.java
+END
+LevelLayerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/83/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/LevelLayerException.java
+END
+LevelLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/98/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/LevelLoadException.java
+END
+PlayerMovementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/66/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/exceptions/PlayerMovementException.java
+END

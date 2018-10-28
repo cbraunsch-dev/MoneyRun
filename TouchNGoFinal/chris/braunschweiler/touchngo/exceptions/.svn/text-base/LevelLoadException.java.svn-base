@@ -1,0 +1,8 @@
+package chris.braunschweiler.touchngo.exceptions;
+
+public class LevelLoadException extends Exception{
+	
+	public LevelLoadException(String message){
+		super(message);
+	}
+}

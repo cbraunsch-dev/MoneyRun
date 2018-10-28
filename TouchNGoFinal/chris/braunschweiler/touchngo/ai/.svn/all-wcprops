@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/183/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai
+END
+PathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/121/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/PathFinder.java
+END
+AIPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/121/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/AIPath.java
+END
+GameMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/183/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/GameMap.java
+END
+Mover.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/183/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/Mover.java
+END
+TileBasedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/168/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/TileBasedMap.java
+END
+AStarHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/121/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/AStarHeuristic.java
+END
+ClosestHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/121/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/ClosestHeuristic.java
+END
+AStarPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/121/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/ai/AStarPathFinder.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/226/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities
+END
+IPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/203/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IPlayer.java
+END
+IObstacle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IObstacle.java
+END
+NonPlayableCharacterSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/220/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/NonPlayableCharacterSprite.java
+END
+Bank.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/Bank.java
+END
+PlayerMapModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/167/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/PlayerMapModel.java
+END
+IPlayerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IPlayerListener.java
+END
+NumberSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/157/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/NumberSprite.java
+END
+IPlayableCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/188/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IPlayableCharacter.java
+END
+Water.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/Water.java
+END
+Goal.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/Goal.java
+END
+ICollectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/102/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/ICollectable.java
+END
+PlayerSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/204/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/PlayerSprite.java
+END
+IPlayableCharacterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/119/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IPlayableCharacterListener.java
+END
+IEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/IEntity.java
+END
+INumberSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/155/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/INumberSprite.java
+END
+INonPlayableCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/166/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/INonPlayableCharacter.java
+END
+PlayableCharacterSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/226/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/PlayableCharacterSprite.java
+END
+ICollidedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/ICollidedListener.java
+END
+Wall.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/98/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/Wall.java
+END
+INonPlayableCharacterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/117/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/INonPlayableCharacterListener.java
+END
+Switch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/Switch.java
+END
+MoneyBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/158/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/MoneyBag.java
+END
+ICollidable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/116/trunk/TouchNGoFinal/chris/braunschweiler/touchngo/entities/ICollidable.java
+END
